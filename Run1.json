@@ -1,0 +1,9 @@
+{
+"test1":[{"attribute":"EmailSystem/cpu_avg","score": 25}],
+"test2":[{"attribute":"EmailSystem/cpu_p95","score":20}],
+"test3":[{"attribute":"EmailSystem/ram_mb_avg", "score":13}],
+"test4":[{"attribute":"EmailSystem/ram_mb_p95", "score":25}],
+"test5":[{"attribute":"NotificationSystem/cpu_avg", "score":25}]
+
+
+}
